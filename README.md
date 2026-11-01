@@ -60,7 +60,6 @@ Suzhou-2027-OpenGL/
 ├── modern/
 │   └── Suzhou2027Modern.cpp
 └── assets/
-    ├── hero.svg
     ├── watertown.png
     └── modern.png
 ```
