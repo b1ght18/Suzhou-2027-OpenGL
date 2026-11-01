@@ -1,6 +1,5 @@
 /*
  * Suzhou 2027 - Water Town
- * Copyright (c) 2026 Bohan Hu
  * Original scene/application code: MIT; embedded font meshes: SIL OFL 1.1.
  * A self-contained 2D OpenGL/freeglut greeting card. C++17.
  * All artwork is constructed from geometry; no images, font files or shaders.
