@@ -1,5 +1,4 @@
 /*
- * Copyright (c) 2026 Bohan Hu
  * Original scene/application code: MIT; embedded font meshes: SIL OFL 1.1.
  * SUZHOU 2027 - A NEW HORIZON
  * A separate, entirely 2D modern-city greeting card.
